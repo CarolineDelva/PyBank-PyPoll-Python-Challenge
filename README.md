@@ -4,14 +4,21 @@ This project is a part of the [Columbia Engineer Data Analytics Bootcamp](https:
 
 #### -- Project Status: [Completed]
 
-## Project Intro/Objective
+## PyBank Intro/Objective
+The purpose of this project is to analyze the financial record of fictitious company. 
+
+This python script analyzes the financial data from the [budget_data.csv)(https://github.com/CarolineDelva/PyBank-PyPoll-Python-Challenge/blob/master/Resources/budget_data.csv) to extract the following information:
+
+* The total number of months included in the dataset
+* The net total amount of "Profit/Losses" over the entire period
+* The average of the changes in "Profit/Losses" over the entire period
+* The greatest increase in profits (date and amount) over the entire period
+* The greatest decrease in losses (date and amount) over the entire period
+
+
 The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
 
-### Partner
-* [Name of Partner organization/Government department etc..]
-* Website for partner
-* Partner contact: [Name of Contact], [slack handle of contact if any]
-* If you do not have a partner leave this section out
+
 
 ### Methods Used
 * Inferential Statistics
