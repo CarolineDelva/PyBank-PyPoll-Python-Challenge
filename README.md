@@ -78,23 +78,20 @@ The script export the election result into a [text file](https://github.com/Caro
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 2. CSV can be found in the [Resources](https://github.com/CarolineDelva/PyBank-PyPoll-Python-Challenge/blob/master/Resources/election_data.csv) in this repository.
     
-3. The Python script can be found the [PyPoll](https://github.com/CarolineDelva/PyBank-PyPoll-Python-Challenge/blob/master/PyBank/main2.py)
-4. Run the script in a code editor like [Visual Studio Code](https://code.visualstudio.com/)
+3. The Python script can be found the [PyPoll](https://github.com/CarolineDelva/PyBank-PyPoll-Python-Challenge/blob/master/PyBank/main2.py).
+4. The output file can be found [here](https://github.com/CarolineDelva/PyBank-PyPoll-Python-Challenge/blob/master/PyPoll/output.txt).
+4. Run the script in a code editor like [Visual Studio Code](https://code.visualstudio.com/).
 
 ## Output 
 ```
-Election Results
--------------------------
-Total Votes: 3521001
--------------------------
-Khan: 63.000% (2218231)
-Correy: 20.000% (704200)
-Li: 14.000% (492940)
-O'Tooley: 3.000% (105630)
--------------------------
+Total Votes: 3521001 
+------------------------- 
+Khan: 63.0% (2218231) 
+Correy: 20.0% (704200) 
+Li: 14.0% (492940) 
+O'Tooley: 3.0% (105630) 
+------------------------- 
 Winner: Khan
--------------------------
-
 ```
 
 
