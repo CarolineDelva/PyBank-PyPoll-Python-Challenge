@@ -50,13 +50,15 @@ Greatest Decrease in Profits: Sep-2013 ($-2196167)
 
 ## PyPoll
 ### Project Description
-The purpose of this project is to modernize the vote-counting process at a rural town. The project contains a python script compute the following election result from the [election_data.csv](https://github.com/CarolineDelva/PyBank-PyPoll-Python-Challenge/blob/master/Resources/election_data.csv). 
+The purpose of this project is to modernize the vote-counting process at a small rural town. The project contains a python script compute the following election result from the [election_data.csv](https://github.com/CarolineDelva/PyBank-PyPoll-Python-Challenge/blob/master/Resources/election_data.csv). 
 
 * The total number of votes cast
 * A complete list of candidates who received votes
 * The percentage of votes each candidate won
 * The total number of votes each candidate won
-* The winner of the election based on popular vote.
+* The winner of the election based on popular vote
+
+The script export the election result into a [text file](https://github.com/CarolineDelva/PyBank-PyPoll-Python-Challenge/blob/master/PyPoll/output.txt) for the town's mayor to publish.
 
 ### Method Used
 * Data Analysis
@@ -74,20 +76,25 @@ The purpose of this project is to modernize the vote-counting process at a rural
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. CSV can be found in the [Resources](https://github.com/CarolineDelva/PyBank-PyPoll-Python-Challenge/tree/master/Resources) in thi repository.
+2. CSV can be found in the [Resources](https://github.com/CarolineDelva/PyBank-PyPoll-Python-Challenge/blob/master/Resources/election_data.csv) in thi repository.
     
 3. The Python script can be found the [PyBank](https://github.com/CarolineDelva/PyBank-PyPoll-Python-Challenge/blob/master/PyBank/main2.py)
 4. Run the script in a code editor like [Visual Studio Code](https://code.visualstudio.com/)
 
 ## Output 
 ```
-Financial Analysis
-----------------------------
-Total Months: 86
-Total: $38382578
-Average  Change: $-2315.12
-Greatest Increase in Profits: Feb-2012 ($1926159)
-Greatest Decrease in Profits: Sep-2013 ($-2196167)
+Election Results
+-------------------------
+Total Votes: 3521001
+-------------------------
+Khan: 63.000% (2218231)
+Correy: 20.000% (704200)
+Li: 14.000% (492940)
+O'Tooley: 3.000% (105630)
+-------------------------
+Winner: Khan
+-------------------------
+
 ```
 
 
