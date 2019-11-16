@@ -58,7 +58,7 @@ The purpose of this project is to modernize the vote-counting process at a small
 * The total number of votes each candidate won
 * The winner of the election based on popular vote
 
-The script export the election result into a [text file](https://github.com/CarolineDelva/PyBank-PyPoll-Python-Challenge/blob/master/PyPoll/output.txt) for the town's mayor to publish.
+The script exports the election results into a [text file](https://github.com/CarolineDelva/PyBank-PyPoll-Python-Challenge/blob/master/PyPoll/output.txt) that the town's mayor can print and share with the town people.
 
 ### Method Used
 * Data Analysis
