@@ -35,7 +35,7 @@ with open (csvpath) as csvfile:
         if result[winner]['vote_count'] < result[candidate]['vote_count']:
             winner = candidate
         output.append(result[candidate])    
-            #winner =
+             
 with open('output.txt', 'w') as output_file:
     print('Total Votes: ', Total_votes)
     output_file.write('Total Votes: {} \n'.format(Total_votes))
