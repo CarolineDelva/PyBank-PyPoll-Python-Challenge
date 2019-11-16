@@ -1,6 +1,6 @@
 
 # Python Challenge
-This project is a part of the [Columbia Engineer Data Analytics Bootcamp](https://bootcamp.cvn.columbia.edu/data/nyc/landing/?s=Google-Brand&pkw=%2Bdata%20%2Banalytics%20%2Bcolumbia&pcrid=392444639754&pmt=b&utm_source=google&utm_medium=cpc&utm_campaign=%5BS%5D_GRD_Data_Brand_ALL_NYC_BMM_New&utm_term=%2Bdata%20%2Banalytics%20%2Bcolumbia&utm_content=392444639754&s=google&k=%2Bdata%20%2Banalytics%20%2Bcolumbia&gclid=Cj0KCQiA2b7uBRDsARIsAEE9XpFH-2wU0-_7jtxCV_PCkGBR0prlyKtvpF2-nAWU1tO4oYci5h1QStsaAsg5EALw_wcB&gclsrc=aw.ds) in New York, NY.
+I completed this project during my time at the [Columbia Engineer Data Analytics Bootcamp](https://bootcamp.cvn.columbia.edu/data/nyc/landing/?s=Google-Brand&pkw=%2Bdata%20%2Banalytics%20%2Bcolumbia&pcrid=392444639754&pmt=b&utm_source=google&utm_medium=cpc&utm_campaign=%5BS%5D_GRD_Data_Brand_ALL_NYC_BMM_New&utm_term=%2Bdata%20%2Banalytics%20%2Bcolumbia&utm_content=392444639754&s=google&k=%2Bdata%20%2Banalytics%20%2Bcolumbia&gclid=Cj0KCQiA2b7uBRDsARIsAEE9XpFH-2wU0-_7jtxCV_PCkGBR0prlyKtvpF2-nAWU1tO4oYci5h1QStsaAsg5EALw_wcB&gclsrc=aw.ds) located in New York, NY.
 
 #### -- Project Status: [Completed]
 
@@ -50,7 +50,7 @@ Greatest Decrease in Profits: Sep-2013 ($-2196167)
 
 ## PyPoll
 ### Project Description
-The purpose of this project is to modernize the vote-counting process at a small rural town. The project contains a python script compute the following election result from the [election_data.csv](https://github.com/CarolineDelva/PyBank-PyPoll-Python-Challenge/blob/master/Resources/election_data.csv). 
+The purpose of this project is to modernize the vote-counting process at a small rural town. The project contains a python script that computes the following results from the [election_data.csv](https://github.com/CarolineDelva/PyBank-PyPoll-Python-Challenge/blob/master/Resources/election_data.csv). 
 
 * The total number of votes cast
 * A complete list of candidates who received votes
