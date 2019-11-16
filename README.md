@@ -24,7 +24,7 @@ The purpose of this project is to analyze the financial data from the [budget_da
 
 ## Needs of this project
 - data exploration
-- descriptive statistics
+- descriptive analysis
 
 
 ## Getting Started
@@ -36,6 +36,14 @@ The purpose of this project is to analyze the financial data from the [budget_da
 4. Run the script in a code editor like [Visual Studio Code](https://code.visualstudio.com/)
 
 ## Result 
+```
+Financial Analysis
+----------------------------
+Total Months: 86
+Total: $38382578
+Average  Change: $-2315.12
+Greatest Increase in Profits: Feb-2012 ($1926159)
+Greatest Decrease in Profits: Sep-2013 ($-2196167)
 ```
 
 

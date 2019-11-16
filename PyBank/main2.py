@@ -10,6 +10,7 @@ import csv
 # Set path for files
 csvpath = os.path.join('..', 'Resources', "budget_data.csv")
 
+
 #Setting Total_months, first_number, last_number, and diff to 0 and creating an empty list
 Total_months = 0 
 Net_Profit_loss = []
