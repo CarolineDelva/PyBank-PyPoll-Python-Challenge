@@ -6,9 +6,7 @@ This project is a part of the [Columbia Engineer Data Analytics Bootcamp](https:
 
 ## PyBank
 ### Objective
-The purpose of this project is to analyze the financial record of fictitious company. 
-
-This python script analyzes the financial data from the [budget_data.csv](https://github.com/CarolineDelva/PyBank-PyPoll-Python-Challenge/blob/master/Resources/budget_data.csv) to extract the following information:
+The purpose of this project is to analyze the financial data from the [budget_data.csv](https://github.com/CarolineDelva/PyBank-PyPoll-Python-Challenge/blob/master/Resources/budget_data.csv) of a fictitious company to extract the following information:
 
 * The total number of months included in the dataset
 * The net total amount of "Profit/Losses" over the entire period
@@ -16,27 +14,16 @@ This python script analyzes the financial data from the [budget_data.csv](https:
 * The greatest increase in profits (date and amount) over the entire period
 * The greatest decrease in losses (date and amount) over the entire period
 
+### Method Used
+* Data Analysis
 
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+
+### Techonologies 
+* Python (os, csv)
 
 
 
-### Methods Used
-* Inferential Statistics
-* Machine Learning
-* Data Visualization
-* Predictive Modeling
-* etc.
 
-### Technologies
-* R 
-* Python
-* D3
-* PostGres, MySql
-* Pandas, jupyter
-* HTML
-* JavaScript
-* etc. 
 
 ## Project Description
 (Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
@@ -82,6 +69,5 @@ The purpose of this project is ________. (Describe the main goals of the project
 |[Full Name](https://github.com/[github handle]) |     @janeDoe    |
 
 ## Contact
-* If you haven't joined the SF Brigade Slack, [you can do that here](http://c4sf.me/slack).  
-* Our slack channel is `#datasci-projectname`
-* Feel free to contact team leads with any questions or if you are interested in contributing!
+* Caroline Delva (LinkedIn)[https://www.linkedin.com/in/caroline-delva-5184a172/] 
+* (Visit my portfolio)[https://carolinedelva.github.io/CarolineDelvaPortfolio/] 
