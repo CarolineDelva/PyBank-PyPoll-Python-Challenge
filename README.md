@@ -76,9 +76,9 @@ The script export the election result into a [text file](https://github.com/Caro
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. CSV can be found in the [Resources](https://github.com/CarolineDelva/PyBank-PyPoll-Python-Challenge/blob/master/Resources/election_data.csv) in thi repository.
+2. CSV can be found in the [Resources](https://github.com/CarolineDelva/PyBank-PyPoll-Python-Challenge/blob/master/Resources/election_data.csv) in this repository.
     
-3. The Python script can be found the [PyBank](https://github.com/CarolineDelva/PyBank-PyPoll-Python-Challenge/blob/master/PyBank/main2.py)
+3. The Python script can be found the [PyPoll](https://github.com/CarolineDelva/PyBank-PyPoll-Python-Challenge/blob/master/PyBank/main2.py)
 4. Run the script in a code editor like [Visual Studio Code](https://code.visualstudio.com/)
 
 ## Output 
