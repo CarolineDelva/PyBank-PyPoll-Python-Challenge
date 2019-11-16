@@ -30,21 +30,13 @@ The purpose of this project is to analyze the financial data from the [budget_da
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
-
-    *If using offline data mention that and how they may obtain the data from the froup)*
+2. CSV can be found in the [Resources](https://github.com/CarolineDelva/PyBank-PyPoll-Python-Challenge/tree/master/Resources) in thi repository.
     
-3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-4. etc...
+3. The Python script can be found the [PyBank](https://github.com/CarolineDelva/PyBank-PyPoll-Python-Challenge/blob/master/PyBank/main2.py)
+4. Run the script in a code editor like [Visual Studio Code](https://code.visualstudio.com/)
 
-*If your project is well underway and setup is fairly complicated (ie. requires installation of many packages) create another "setup.md" file and link to it here*  
-
-5. Follow setup [instructions](Link to file)
-
-## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide DeckTitle](link)
-* [Blog Post](link)
+## Result 
+```
 
 
 ## Contact
